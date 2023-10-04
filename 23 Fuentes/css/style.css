@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Mano alzada";
+  src: local("Great Vibes"),  url("../assets/fonts/GreatVibes-Regular.ttf");
+
+ }
+
+body {
+    background-color: #1f1d1d;
+    color: palevioletred;
+}
+
+.icon {
+  font-size: 2rem;
+  color: rgb(34, 242, 34);  
+}
+
+.text {
+   text-transform: uppercase;
+   /*text-shadow: 1px 0px  turquoise, 2px 0 purple;
+   word-spacing: 5px;
+   letter-spacing: 2px;
+   line-height: 3;*/
+   /*writing-mode: vertical-lr;*/
+   word-break: break-all;
+   width: 10px;
+   text-align: center;
+}
+
+/*.link {
+  text-decoration: none;
+  color: lightcoral;
+  border-bottom: 2px solid lightcoral;
+}*/
+
+.word-container {
+  background-color: purple; 
+  height: 100px;
+  width: 200px;
+  text-align: center;
+}
+
+.word {
+   line-height: 100px; 
+}

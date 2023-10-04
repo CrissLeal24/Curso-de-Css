@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: mediumpurple;
+    color: aliceblue;
+}
+
+.text{
+  background-color: rgb(241, 11, 176);
+}
+
+.link{
+  background-color: beige;
+  display: inline-block;
+  width: 100px;
+  margin-top: 50px;
+} 
+  

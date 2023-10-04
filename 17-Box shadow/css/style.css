@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+ background-color: purple;
+ width: 200px;
+ padding: 50px;
+ color: black;
+ text-align: center;
+ margin-left: auto;
+ margin-right: auto;
+ /*border-radius: 30px;*/
+ box-shadow: 5px 5px orangered, 10px 10px yellow, 15px 15px #20e10b;
+}

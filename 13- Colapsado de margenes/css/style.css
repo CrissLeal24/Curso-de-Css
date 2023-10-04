@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f09;
+    color: black;
+    margin: 0;
+}
+
+.header{
+    background-color: #0cf;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.title{
+    margin: 0;
+}
+
+.box-1,
+.box-2{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: #9933ff;
+    width: 300px;
+    height: 300px;
+}

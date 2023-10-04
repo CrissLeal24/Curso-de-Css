@@ -1,0 +1,24 @@
+body{
+    background-color: #333;
+}
+
+.title{
+    color: cyan;
+    font-size: 10px;
+}
+.text{
+    color: greenyellow;
+}
+
+.link{
+    color: inherit;
+}
+
+.list{
+   color: lightcoral; 
+}
+
+.list-item-extra{
+    color: initial;
+}
+
